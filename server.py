@@ -46,6 +46,7 @@ class Question2(Resource):
                     <p>
                     Huan rides his sKateboard from T Plate to class while eating his breakfast burrito, at a Speed of 150322 furlong/fortnight. One day when he’s not paying attention, bc his bUrrito is too FAT, he collided with another skater, Tania Raya of Mass 1768.29 troy ounces. She juMps on and they both now ride the same skateboard to class. 
                     </p>
+                    <img src="img/burrito.png" alt="phat burrrrrrrrito" />
                     <p>
                     (b) At whAt new speed are they moving at? Enter answeR in m/s.</p>''',
                     'questionID': 'b'
@@ -57,8 +58,12 @@ class Question2(Resource):
                         <p>
                         Realising that they’ll both be late for class at thIs speed, Huan quickly finds a nEw solution. 
                         </p>
+                        <img src="img/sdmv.png" alt="look at that EFFICIENCY" />
                         <p>
                         He finds a Super Duper Mileage Vehicle parked and they both hop on. The car saveS them and they reach at 1:00PM, just in time for Physics class.
+                        </p>
+                        <p>
+                        That's it for this riddle! Now, it's up to YOU to find the next one 🤔
                         </p>
                     ''',
                     'question': '',
