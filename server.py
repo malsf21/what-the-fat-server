@@ -22,7 +22,7 @@ class Question1(Resource):
     def post(self):
         args = q1_parser.parse_args()
         if (args['answer']):
-            if args['answer'] == "42":
+            if args['answer'] == "515":
                 return {'response': 'congrats, you got the right answer! your next clue is <a href="https://whatthefatdog.com/mastering-physics/">here</a>'}
             else:
                 return {'response': 'nice try, but that wasn\'t quite right. keep on thinking!!!'}
