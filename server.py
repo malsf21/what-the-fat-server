@@ -63,6 +63,9 @@ class Question2(Resource):
                         He finds a Super Duper Mileage Vehicle parked and they both hop on. The car saveS them and they reach at 1:00PM, just in time for Physics class.
                         </p>
                         <p>
+                            <a href="https://whatthefatdog.com/tanya/" target="_blank" rel="noopener noreferrer">tania raya is very grateful. she has some words for you here.</a>
+                        </p>
+                        <p>
                         That's it for this riddle! Now, it's up to YOU to find the next one 🤔
                         </p>
                     ''',
